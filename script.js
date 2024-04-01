@@ -1,2 +1,2 @@
 let number = document.getElementById("number");
-let counter = 0
+let counter = 0;
