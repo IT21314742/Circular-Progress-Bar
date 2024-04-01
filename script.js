@@ -3,5 +3,5 @@ let counter = 0;
 setInterval(() => {
    if(counter == 65){
     clearInterval();
-   } 
+   }
 }, interval);
