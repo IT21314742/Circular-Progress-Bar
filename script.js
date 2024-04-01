@@ -1,1 +1,1 @@
-let number = document
+let number = document.
