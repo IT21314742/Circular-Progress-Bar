@@ -1,1 +1,1 @@
-let number = document.getElementById("number")
+let number = document.getElementById("number");
