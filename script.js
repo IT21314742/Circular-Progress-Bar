@@ -5,5 +5,6 @@ setInterval(() => {
       clearInterval();
    } else {
       counter += 1;
+      
    }
 }, interval);
