@@ -4,6 +4,6 @@ setInterval(() => {
    if (counter == 65) {
       clearInterval();
    } else {
-      counter +=
+      counter += 
    }
 }, interval);
