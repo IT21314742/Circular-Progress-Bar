@@ -5,6 +5,6 @@ setInterval(() => {
       clearInterval();
    } else {
       counter += 1;
-      number.innerHTML = counter + 
+      number.innerHTML = counter + ""
    }
 }, interval);
