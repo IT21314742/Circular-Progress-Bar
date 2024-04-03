@@ -3,14 +3,16 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-body{
+
+body {
     background: #e3edf7;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.skill{
+
+.skill {
     width: 160px;
     height: 160px;
     /* background: cornflowerblue; */
