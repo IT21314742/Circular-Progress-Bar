@@ -37,5 +37,5 @@ body {
     box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.2),
                 inset -4px -4px 6px -1px rgba(255, 255, 255, 0.7),
                 -0.5px -0.5px 0px rgba(255, 255, 255, 1),
-                0.5px 0.5px 0px rgba(0, green, blue, alpha);
+                0.5px 0.5px 0px rgba(0, 0, blue, alpha);
 }
