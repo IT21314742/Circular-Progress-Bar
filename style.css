@@ -34,5 +34,5 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: inset 4px 4px 6px;
+    box-shadow: inset 4px 4px 6px -1px;
 }
