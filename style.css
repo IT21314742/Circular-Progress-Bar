@@ -47,5 +47,5 @@ body {
 circle{
     fill: none;
     stroke: url(#GradientColor);
-    stroke-width: 20;
+    stroke-width: 20px;
 }
