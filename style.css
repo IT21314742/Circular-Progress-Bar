@@ -54,13 +54,15 @@ circle {
     stroke-dashoffset: 472;
     animation: anim 2s linear forwards;
 }
-svg{
+
+svg {
     position: absolute;
     top: 0;
     left: 0;
 }
-@keyframes anim{
-    100%{
+
+@keyframes anim {
+    100% {
         stroke-dashoffset: 165;
     }
 }
