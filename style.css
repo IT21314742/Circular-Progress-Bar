@@ -49,7 +49,7 @@ body {
 circle {
     fill: none;
     stroke: url(#GradientColor);
-    stroke-width: 14px;
+    stroke-width: 15px;
     stroke-dasharray: 472;
     stroke-dashoffset: 472;
     animation: anim 2s linear forwards;
