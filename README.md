@@ -9,8 +9,9 @@ _**Key Features:**_
 
 _How to Use:_
 
-- Clone the repository to access the necessary files.
-Embed the provided HTML, CSS, and JavaScript code snippets into your web application.
-Customize styles and settings as needed to seamlessly integrate the Circular Progress Bar into your project.
-Enhance your web projects with this elegant and functional Circular Progress Bar. Explore, contribute, and leverage this project to elevate the visual appeal and usability of your user interfaces.
+- **Clone** the repository to access the necessary files.
+- **Embed** the provided _HTML, CSS,_ and _JavaScript_ code snippets into your web application.
+- **Customize** styles and settings as needed to seamlessly integrate the Circular Progress Bar into your project.
+  
+ _Enhance your web projects with this elegant and functional Circular Progress Bar. Explore, contribute, and leverage this project to elevate the visual appeal and usability of your user interfaces._😊❤
 
