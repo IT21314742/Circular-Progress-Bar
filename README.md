@@ -1,1 +1,1 @@
-Introduce visual elegance
+Introduce visual elegance and functionality to
