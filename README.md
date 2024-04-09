@@ -2,4 +2,4 @@ Introduce visual elegance and functionality to your web projects with a Circular
  status, adding interactivity and engagement to your user interface. With its sleek design and customizable features, the Circular Progress Bar enhances user experience and provides a visually appealing way to convey information.
  
 **Key Features:**
-1.
+ 1. Dynamic Animation
