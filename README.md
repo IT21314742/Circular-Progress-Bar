@@ -7,3 +7,10 @@ _**Key Features:**_
  3. **Responsive Design:**  Ensure seamless display across devices with a responsive layout that adapts to different  screen sizes.
  4. **Versatile Integration:**  Integrate the Circular Progress Bar into various web applications, from task trackers to fitness apps, for enhanced functionality.
 
+    How to Use:
+
+Clone the repository to access the necessary files.
+Embed the provided HTML, CSS, and JavaScript code snippets into your web application.
+Customize styles and settings as needed to seamlessly integrate the Circular Progress Bar into your project.
+Enhance your web projects with this elegant and functional Circular Progress Bar. Explore, contribute, and leverage this project to elevate the visual appeal and usability of your user interfaces.
+
