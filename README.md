@@ -3,4 +3,4 @@ Introduce visual elegance and functionality to your web projects with a Circular
  
 _**Key Features:**_
  1. **Dynamic Animation:** Enjoy smooth and dynamic animation effects that visually represent progress in a circular format.
- 2. **Customizable Settings:**  Easily adjust parameters such as size, color,
+ 2. **Customizable Settings:**  Easily adjust parameters such as size, color, and progress
